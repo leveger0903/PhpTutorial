@@ -55,10 +55,9 @@
   * [反射*](var.reflection.md)
   * [變數處理*](var.variable.handling.md)
 
-
 ## 備份網址
 
-  * [PHP](https://gitbook.fu-ming.tw/php-oo/_book/index.html)
+  * [PHP](https://gitbook.fu-ming.tw/php/_book/index.html)
 
 ## 更新 
 
