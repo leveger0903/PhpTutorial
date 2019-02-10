@@ -57,7 +57,7 @@
 
 ## 備份網址
 
-  * [PHP](https://gitbook.fu-ming.tw/php/_book/index.html)
+  * [PHP](https://gitbook.fu-ming.tw/php/index.html)
 
 ## 更新 
 
