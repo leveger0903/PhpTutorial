@@ -35,18 +35,18 @@
 
 * PHP標準庫
   * [SPL函式](spl.functions.md)
-  * [數據結構*](spl.datastructures.md)
-  * [疊代器*](spl.iterators.md)
-  * [介面*](spl.interfaces.md)
-  * [異常*](spl.exceptions.md)
-  * [文件處理*](spl.files.md)
-  * [其他*](spl.misc.md)
+  * [* 數據結構](spl.data.structures.md)
+  * [* 疊代器](spl.iterators.md)
+  * [* 介面](spl.interfaces.md)
+  * [* 異常](spl.exceptions.md)
+  * [* 文件處理](spl.files.md)
+  * [* 其他](spl.misc.md)
 
 * 變量與類型延伸
   * [類別與物件](var.class.object.md)
   * [函數處理](var.function.handling.md)
-  * [過濾器*](var.data.filtering.md)
-  * [Quickhash*](var.quickhash.md)
-  * [反射*](var.reflection.md)
-  * [變數處理*](var.variable.handling.md)
+  * [* 過濾器](var.data.filtering.md)
+  * [* Quickhash](var.quickhash.md)
+  * [* 反射](var.reflection.md)
+  * [* 變數處理](var.variable.handling.md)
 
