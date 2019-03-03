@@ -45,7 +45,7 @@
 * 變量與類型延伸
   * [類別與物件](var.class.object.md)
   * [函數處理](var.function.handling.md)
-  * [* 過濾器](var.data.filtering.md)
+  * [過濾器](var.data.filtering.md)
   * [* Quickhash](var.quickhash.md)
   * [* 反射](var.reflection.md)
   * [* 變數處理](var.variable.handling.md)
